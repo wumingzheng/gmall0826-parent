@@ -53,7 +53,7 @@
         </dependency>
     </dependencies>
 
-    <!-- 这里只是声明 -->
+    <!-- 这里只是声明，类似一声明类 -->
     <!-- 下面所有子的pom文件都会继承父pom -->
     <dependencyManagement>
         <dependencies>
